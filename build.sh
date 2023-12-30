@@ -1,0 +1,1 @@
+gcc -o priorityQueue -O3 -Wall priorityQueue.c
